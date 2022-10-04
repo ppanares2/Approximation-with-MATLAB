@@ -1,0 +1,2 @@
+# Approximation-with-MATLAB
+MATLAB code associated to 2022's paper "Approximation Techniques in MATLAB" about: function approximation with orthogonal polynomials, wavelet and multiresolution analysis, scattered interpolation with radial basis functions, surrogate optimization, kernelized support vector machines, universal approximators with neural networks, using neural network to approximate an Extended Kalman Filter (for battery state of charge estimation).
