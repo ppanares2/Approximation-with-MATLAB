@@ -4,8 +4,8 @@ MATLAB® code associated to 2022's paper entitle "Approximation Techniques with 
   - uniform approximation with Bernstein polynomials and Bézier curves
   - L^2-approximation with Jacobi orthogonal polynomials and Fourier series 
 - Wavelets Analysis in L^2(R)
-  - continuous wavelet transform 
-  - discrete wavelet transform and multiresolution analysis
+  - Continuous and Discrete Wavelet Transform 
+  - Multiresolution Analysis
 - Radial Basis Functions
   - Scattered data interpolation
   - Surrogate Global Optimization with cubic RBF
