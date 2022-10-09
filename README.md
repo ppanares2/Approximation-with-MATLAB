@@ -1,5 +1,5 @@
 # Approximation-Techniques-with-MATLAB®
-MATLAB® code associated to 2022's paper entitle "Approximation Techniques with MATLAB®" about: 
+MATLAB® code associated to 2022's paper entitled "Approximation Techniques with MATLAB®" about: 
 - Function approximation
   - uniform approximation with Bernstein polynomials and Bézier curves
   - L^2-approximation with Jacobi orthogonal polynomials and Fourier series 
